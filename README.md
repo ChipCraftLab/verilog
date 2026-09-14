@@ -1,7 +1,3 @@
-Here's a sample `README.md` for the DHT11 interface project using Verilog on a Basys board:
-
----
-
 # DHT11 Interface with Basys Board (Verilog)
 
 This project demonstrates how to interface a **DHT11 temperature and humidity sensor** with a **Basys board** using Verilog. The DHT11 sensor is a basic, low-cost digital temperature and humidity sensor, which communicates using a proprietary one-wire protocol. The Verilog code provided implements the required communication protocol and processes the sensor data to extract temperature and humidity values.
@@ -107,7 +103,14 @@ Contributions are welcome! Please submit a pull request if you have any improvem
 
 ---
 
-This README provides all necessary information for users to set up and use the DHT11 sensor interface with the Basys board. You can modify it further based on specific project requirements or updates.
+## ☕ Support
 
+If you find this project helpful, consider supporting the work:
 
-<a href="https://www.buymeacoffee.com/bkasyap" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-blue.png" alt="Buy Me A Coffee" style="height: 60px !important;width: 217px !important;" ></a>
+<div align="center">
+
+<a href="https://www.buymeacoffee.com/chipcraftlab" target="_blank">
+  <img src="https://img.buymeacoffee.com/button-api/?text=Buy me a coffee&emoji=☕&slug=chipcraftlab&button_colour=FFDD00&font_colour=000000&font_family=Cookie&outline_colour=000000&coffee_colour=ffffff" alt="Buy Me A Coffee" />
+</a>
+
+</div>

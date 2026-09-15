@@ -107,10 +107,7 @@ Contributions are welcome! Please submit a pull request if you have any improvem
 
 If you find this project helpful, consider supporting the work:
 
-<div align="center">
 
-<a href="https://www.buymeacoffee.com/chipcraftlab" target="_blank">
-  <img src="https://img.buymeacoffee.com/button-api/?text=Buy me a coffee&emoji=☕&slug=chipcraftlab&button_colour=FFDD00&font_colour=000000&font_family=Cookie&outline_colour=000000&coffee_colour=ffffff" alt="Buy Me A Coffee" />
-</a>
+[![Buy Me A Coffee](https://img.buymeacoffee.com/button-api/?text=Buy%20me%20a%20coffee&emoji=☕&slug=chipcraftlab&button_colour=FFDD00&font_colour=000000&font_family=Cookie&outline_colour=000000&coffee_colour=ffffff)](https://www.buymeacoffee.com/chipcraftlab)
 
-</div>
+
